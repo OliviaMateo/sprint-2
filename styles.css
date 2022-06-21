@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    font-family: 'Roboto',sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: "Roboto";
+    color: white;
+    }
+
+p {
+    margin: 0 !important;
+    font-family: "Roboto";
+    }
+
+    #montos{
+        max-height: 100px;
+        overflow-y: auto;
+    }
+    
